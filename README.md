@@ -40,7 +40,7 @@ Player Economics
   
 Predictive Analysis
 
-nnBased on the analyzed metrics, the project aims to predict the potential winner of the FIFA World Cup 2022. By considering factors such as offense, midfield, and defense scores, team rankings, physical abilities, total goals scored, and player wages, a comprehensive prediction model is developed to forecast the tournament's outcomes.
+The World Cup Analysis project utilizes a dataset from Kaggle, focusing on FIFA World Cup football data. The analysis includes various CSV files containing information on the Qatar group stage, squad stats, team scores, training data, and FIFA rankings. Key metrics analyzed in the project include team offense scores, midfield scores, and defense scores. Additionally, the ranks of teams in 2021 and 2022 were evaluated. Physical abilities of players were assessed based on age, weight, and height, alongside individual metrics such as total goals scored by the team and player wages. These factors were used to predict which team would win the FIFA World Cup 2022, based on their performance in previous years. The comprehensive analysis provides insights into the performance, abilities, and economic aspects of teams and players, helping to forecast potential outcomes for the tournament. Based on the analyzed metrics, the project aims to predict the potential winner of the FIFA World Cup 2022. By considering factors such as offense, midfield, and defense scores, team rankings, physical abilities, total goals scored, and player wages, a comprehensive prediction model is developed to forecast the tournament's outcomes.
 
 Conclusion
 
